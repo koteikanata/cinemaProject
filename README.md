@@ -1,5 +1,53 @@
 # Project: Cinema Room Manager
 
+## example a program for stage 5
+```
+Enter the number of rows:
+3
+Enter the number of seats in each row:
+3
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+1
+Cinema:
+  1 2 3
+1 S S S 
+2 S S S 
+3 S S S 
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+2
+Enter a row number:
+3
+Enter a seat number in that row:
+
+2
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+3
+Number of purchased tickets: 1
+Percentage: 11.11%
+Current income: $10
+Total income: $90
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+0
+
+Process finished with exit code 0
+```
+
 # Stage 1/5: Arrangement
 Objectives
 There is not a lot of space in our new cinema theatre, so you need to take into account the restrictions on the number of seats. Your friends said that the room would fit 7 rows of 8 seats. Your task is to help them visualize the seating arrangement by printing the scheme to the console.
