@@ -1,6 +1,8 @@
 # Project: Cinema Room Manager
 
-## example a program for stage 5
+you can create a cinema with your amount of rows and seats, then you can buy a tickets and you can see the statistics of purchased tickets :)
+
+### example a program:
 ```
 Enter the number of rows:
 3
