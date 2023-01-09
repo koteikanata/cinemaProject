@@ -1,4 +1,4 @@
-# Project: Cinema Room Manager
+# Jetbrains Academy project: Cinema Room Manager
 
 you can create a cinema with your amount of rows and seats, then you can buy a tickets and you can see the statistics of purchased tickets :)
 
